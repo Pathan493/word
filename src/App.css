@@ -1,3 +1,6 @@
+body {
+  background-color: rgb(145, 145, 236);
+}
 .container {
   width: 400px;
   margin: 0 auto;
@@ -5,6 +8,7 @@
   padding: 10px;
   text-align: center;
   margin-top: 100px;
+  background-color: pink;
 }
 
 .paragraph-input {
